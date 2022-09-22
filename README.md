@@ -1,3 +1,7 @@
+<div>
+<img alt="Alx logo" src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png">
+</div>
+
 # C - Binary trees
 This was a group project in which we learned the specifics, benefits, and drawbacks of utilizing trees as data structures. 
 We learnt how to classify trees and how to navigate them. We used binary, binary search, AVL, and Max Binary Heap trees throughout the project.
