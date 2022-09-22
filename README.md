@@ -1,10 +1,14 @@
+<div align="center">
+<img alt="Alx logo" src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png">
+</div>
+
 # C - Binary trees
 This was a group project in which we learned the specifics, benefits, and drawbacks of utilizing trees as data structures. 
 We learnt how to classify trees and how to navigate them. We used binary, binary search, AVL, and Max Binary Heap trees throughout the project.
 
 ## Tests :
 
-* [tests](./tests): Folder of test files for all tasks. Provided by ALX.
+* [tests](./tests): Folder of test files for all tasks.
 
 ## Helper File
 
@@ -17,7 +21,7 @@ trees in a pretty way.
 prototypes for all types and functions written for the project.
 
 Data Structures
-```
+```C
 struct binary_tree_s
 {
     int n;
@@ -32,7 +36,9 @@ typedef struct binary_tree_s avl_t;
 typedef struct binary_tree_s heap_t;
 ```
 
-Function Prototypes
+---
+
+**Function Prototypes**
 
 | File                             | Prototype                                                                                        |
 | -------------------------------- | ------------------------------------------------------------------------------------------------ |
