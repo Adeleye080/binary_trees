@@ -4,7 +4,7 @@ We learnt how to classify trees and how to navigate them. We used binary, binary
 
 ## Tests :
 
-* [tests](./tests): Folder of test files for all tasks. Provided by ALX.
+* [tests](./tests): Folder of test files for all tasks.
 
 ## Helper File
 
@@ -17,7 +17,7 @@ trees in a pretty way.
 prototypes for all types and functions written for the project.
 
 Data Structures
-```
+```C
 struct binary_tree_s
 {
     int n;
@@ -32,7 +32,9 @@ typedef struct binary_tree_s avl_t;
 typedef struct binary_tree_s heap_t;
 ```
 
-Function Prototypes
+**Function Prototypes**
+
+---
 
 | File                             | Prototype                                                                                        |
 | -------------------------------- | ------------------------------------------------------------------------------------------------ |
