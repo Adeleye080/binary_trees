@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <img alt="Alx logo" src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png">
 </div>
 
