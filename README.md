@@ -266,4 +266,9 @@ typedef struct binary_tree_s heap_t;
     <li><a href="https://www.github.com/Adeleye080">Github</a></li>
     <li><a href="mailto:ajiboyeadeleye080@gmail.com">e-mail</a></li>
     </ul>
+    <summary>Olusegun Mayungbe</summary>
+    <ul>
+    <li><a href="https://www.github.com/oluadepe">Github</a></li>
+    <li><a href="o.mayungbe@oluadepefarms.com">contact</a></li>
+    </ul>
 </details>
